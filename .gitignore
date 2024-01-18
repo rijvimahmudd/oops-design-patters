@@ -3,7 +3,7 @@
 *.exe
 
 # Ignore build artifacts and temporary files
-/build/
+**/Creational/
 /temp/
 
 # Ignore specific directories
