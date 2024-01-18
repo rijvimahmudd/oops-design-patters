@@ -11,3 +11,19 @@
 # Ignore all executable files in any directory
 **/*.out
 **/*.exe
+
+
+# Ignore executable files
+*.out
+*.exe
+
+# Ignore build artifacts and temporary files
+/temp/
+
+# Ignore specific directories
+/directory_to_ignore/
+
+# Ignore all executable files in the "Factory Method" folder and its subdirectories
+Creational/Factory Method/**/*.out
+Creational/Factory Method/**/*.exe
+
